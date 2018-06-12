@@ -1,0 +1,6 @@
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Business\bin\Debug\LastSunday.Business.dll
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Business\bin\Debug\LastSunday.Business.pdb
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Business\obj\Debug\LastSunday.Business.csprojAssemblyReference.cache
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Business\obj\Debug\LastSunday.Business.csproj.CoreCompileInputs.cache
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Business\obj\Debug\LastSunday.Business.dll
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Business\obj\Debug\LastSunday.Business.pdb

@@ -1,0 +1,12 @@
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Test\bin\Debug\LastSunday.Test.dll
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Test\bin\Debug\LastSunday.Test.pdb
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Test\bin\Debug\LastSunday.Business.dll
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Test\bin\Debug\nunit.framework.dll
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Test\bin\Debug\LastSunday.Business.pdb
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Test\bin\Debug\nunit.framework.pdb
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Test\bin\Debug\nunit.framework.xml
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Test\obj\Debug\LastSunday.Test.csprojAssemblyReference.cache
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Test\obj\Debug\LastSunday.Test.csproj.CoreCompileInputs.cache
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Test\obj\Debug\LastSunday.Test.csproj.CopyComplete
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Test\obj\Debug\LastSunday.Test.dll
+C:\Users\SiphenathiP\source\repos\LastSundayOfEachMonth\LastSunday.Test\obj\Debug\LastSunday.Test.pdb
